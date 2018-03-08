@@ -1,0 +1,12 @@
+"unlitGeneric"
+{
+	"$basetexture" "models/undyne/spear"
+
+	"$translucent"	"1"
+
+	"$color2"		"[1 1 1]"
+
+	"$ambientocclusion" "0"
+
+	"$nodecal" "1"
+}

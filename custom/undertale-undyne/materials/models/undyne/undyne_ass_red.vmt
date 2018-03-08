@@ -1,0 +1,16 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/undyne/Undyne_Ass_red"
+
+	"$basemapalphaphongmask"		"1"
+
+	"$phong" "1"
+	"$phongboost"	"1.725"
+	"$phongexponent" "1.75"
+	"$phongfresnelranges"	"[0.3 0.5 1.35]"
+
+	"$color2"		"[0.825 0.825 0.825]"
+
+	"$phongalbedotint" 1
+	"$phongexponenttexture" "models/undyne/green"
+}

@@ -1,0 +1,23 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/undyne/spear"
+	"$bumpmap" "models/undyne/flatnormal"
+
+	"$color2"	"[0 0 0]"
+
+	"$additive"	1
+	"$translucent"	1
+
+	"$phong" "1"
+	"$phongexponent"				"3"
+	"$phongboost"					"0"
+
+	"$phongfresnelranges"	"[0 0.75 4]"
+
+	"$envmap" "models/undyne/flat_gray"
+//	"$normalmapalphaenvmapmask"	"1"
+	"$envmaptint"	"[.5 .5 .5]"
+	"$envmapfresnel"	"1"
+
+	"$ambientocclusion"	"0"
+}
