@@ -8,9 +8,9 @@ public Plugin plugin =
 {
     name = "[TF2] Undertale Speaker",
     author = "2010kohtep",
-    description = "",
+    description = "Gives some Undertale models their original voice.",
     version = "1.1.0",
-    url = ""
+    url = "https://github.com/2010kohtep"
 };
 
 bool IsUndyne(int entity)
